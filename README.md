@@ -1,2 +1,1 @@
-# LLM-game
-the game incorporating LLM
+LLMを組み込んだゲームの試作
